@@ -1,4 +1,4 @@
-# Hey Pico Technical Pre-Technical Test
+# Hey Pico Pre-Technical Test
 
 Simple API Application with Google Maps API Integration.
 
